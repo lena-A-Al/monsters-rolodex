@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lena-A-Al/monsters-rolodex/static/css/main.5c143c8e.css",
+    "main.js": "/lena-A-Al/monsters-rolodex/static/js/main.6098c6fc.js",
+    "static/js/787.fbb2c275.chunk.js": "/lena-A-Al/monsters-rolodex/static/js/787.fbb2c275.chunk.js",
+    "index.html": "/lena-A-Al/monsters-rolodex/index.html",
+    "main.5c143c8e.css.map": "/lena-A-Al/monsters-rolodex/static/css/main.5c143c8e.css.map",
+    "main.6098c6fc.js.map": "/lena-A-Al/monsters-rolodex/static/js/main.6098c6fc.js.map",
+    "787.fbb2c275.chunk.js.map": "/lena-A-Al/monsters-rolodex/static/js/787.fbb2c275.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c143c8e.css",
+    "static/js/main.6098c6fc.js"
+  ]
+}
